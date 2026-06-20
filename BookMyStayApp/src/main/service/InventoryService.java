@@ -1,9 +1,8 @@
 package main.service;
 
-import main.model.Room;
-
 import java.util.HashMap;
 import java.util.Map;
+import main.model.Room;
 
 public class InventoryService {
 
