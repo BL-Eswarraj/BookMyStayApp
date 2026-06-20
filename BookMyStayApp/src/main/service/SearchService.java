@@ -1,7 +1,8 @@
 package main.service;
 
-import java.util.Map;
 import main.model.Room;
+
+import java.util.Map;
 
 public class SearchService {
 
